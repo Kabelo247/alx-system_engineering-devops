@@ -3,4 +3,5 @@ Display the contents list of your current director
 Changes the working directory to the user’s home directory
 Display current directory contents in a long format
 Display current directory contents, including hidden files (starting with .)
-List files sorted numerically in long format
+Display current directory contents in long format, with user and group IDs displayed numerically, hidden files
+
