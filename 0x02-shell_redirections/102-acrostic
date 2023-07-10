@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 's/^\(.\).*/\1/p' | tr -d '\n'
+sed -n "s/^\(.\).*/\1/p" | tr -d "\n"
